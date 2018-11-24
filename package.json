@@ -17,7 +17,6 @@
         "cordova-plugin-console": "^1.1.0",
         "cordova-plugin-contacts": "^3.0.1",
         "cordova-plugin-device": "^2.0.2",
-        "cordova-plugin-device-motion": "^2.0.1",
         "cordova-plugin-dialogs": "^2.0.1",
         "cordova-plugin-file": "^6.0.1",
         "cordova-plugin-media-capture": "^3.0.2",
@@ -32,7 +31,6 @@
             "cordova-plugin-device": {},
             "cordova-plugin-barcodescanner": {},
             "cordova-plugin-media-capture": {},
-            "cordova-plugin-device-motion": {},
             "cordova-plugin-dialogs": {},
             "cordova-plugin-contacts": {},
             "cordova-plugin-splashscreen": {}

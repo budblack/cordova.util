@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="net.msign.tool.util" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>HelloCordova</name>
+    <name>Cordova盒子</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
     </description>
@@ -46,7 +46,6 @@
     <plugin name="cordova-plugin-device" spec="^2.0.2" />
     <plugin name="cordova-plugin-barcodescanner" spec="^0.7.4" />
     <plugin name="cordova-plugin-media-capture" spec="^3.0.2" />
-    <plugin name="cordova-plugin-device-motion" spec="^2.0.1" />
     <plugin name="cordova-plugin-dialogs" spec="^2.0.1" />
     <plugin name="cordova-plugin-contacts" spec="^3.0.1" />
     <plugin name="cordova-plugin-splashscreen" spec="~5.0.2" />
